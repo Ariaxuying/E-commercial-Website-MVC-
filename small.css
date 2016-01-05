@@ -1,0 +1,15 @@
+      a.link{
+   text-decoration: none;color: black}    
+      a.link:hover {
+   text-decoration: underline;color:black}
+      body{background-color: #fbecfb;font-family:chalkboard;font-size: 35px }
+      .pic{height: 250px;width: 250px
+      }
+      #order{position:absolute;left:20%}
+      #logincheck{
+          font-size:35px
+      }
+      .log{
+         font-size:35px 
+      }
+     
